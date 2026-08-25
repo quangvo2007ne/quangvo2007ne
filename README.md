@@ -4,7 +4,7 @@
 
 Digging into how software actually works, one binary at a time.
 
-[GitHub](https://github.com/quangvo2007ne) • [Facebook/Contact](#)
+[GitHub](https://github.com/quangvo2007ne) • [Facebook/Contact](https://www.facebook.com/duckwang8/)
 
 ---
 
