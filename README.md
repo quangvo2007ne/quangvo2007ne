@@ -1,10 +1,10 @@
-# Hi 👋, I'm [YOUR_NAME]
+# Hi 👋, I'm VIET QUANG
 
 ### Reverse Engineer · Binary Analysis · Mach-O / ARM64
 
 Digging into how software actually works, one binary at a time.
 
-[GitHub](https://github.com/YOUR_USERNAME) • [Facebook/Contact](#)
+[GitHub](https://github.com/quangvo2007ne) • [Facebook/Contact](#)
 
 ---
 
@@ -54,11 +54,6 @@ Current focus:
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg)
-
----
 
 ### "Read the binary. Understand the system."
 
