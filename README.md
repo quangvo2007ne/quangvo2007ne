@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm [YOUR_NAME]
 
-<!--
-**quangvo2007ne/quangvo2007ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Reverse Engineer · Binary Analysis · Mach-O / ARM64
 
-Here are some ideas to get you started:
+Digging into how software actually works, one binary at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/YOUR_USERNAME) • [Facebook/Contact](#)
+
+---
+
+# 🚀 About Me
+
+I focus on **reverse engineering** — reading disassembly, analyzing binary
+formats, and understanding how compiled software behaves at runtime.
+
+Practicing responsible disclosure: when I find a vulnerability in
+third-party software, I report it directly to the vendor.
+
+Current focus:
+
+- 🔍 Static & dynamic binary analysis
+- 🧩 Mach-O / ARM64 internals
+- 🐍 Python tooling for reverse engineering
+- 📡 Frida-based runtime instrumentation
+
+---
+
+# 🛠 Tech Stack
+
+![ARM64](https://img.shields.io/badge/Arch-ARM64-red)
+![Mach--O](https://img.shields.io/badge/Format-Mach--O-blue)
+![Frida](https://img.shields.io/badge/Dynamic-Frida-orange)
+![Python](https://img.shields.io/badge/Tooling-Python-yellow)
+![Objective--C](https://img.shields.io/badge/Lang-Objective--C-lightgrey)
+
+| Domain | Skills |
+|---|---|
+| **Binary Analysis** | Mach-O format, ARM64 disassembly, ObjC runtime internals |
+| **Dynamic Analysis** | Frida, runtime hooking, function tracing |
+| **Tooling** | Python (struct/ctypes), custom parsers |
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+### "Read the binary. Understand the system."
+
+⭐ Thanks for visiting!
