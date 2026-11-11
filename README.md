@@ -1,47 +1,53 @@
 # Hi 👋, I'm VIET QUANG
 
-### Reverse Engineer · Binary Analysis · Mach-O / ARM64
+### 💻 IT Student · Reverse Engineering Beginner · Just Building Stuff
 
-Digging into how software actually works, one binary at a time.
+Curious about how software works behind the scenes.
 
-[GitHub](https://github.com/quangvo2007ne) • [Facebook/Contact](https://www.facebook.com/duckwang8/)
+Currently learning **Reverse Engineering**, exploring binaries, and building random projects just for fun.
 
----
-
-# 🚀 About Me
-
-I focus on **reverse engineering** — reading disassembly, analyzing binary
-formats, and understanding how compiled software behaves at runtime.
-
-Practicing responsible disclosure: when I find a vulnerability in
-third-party software, I report it directly to the vendor.
-
-Current focus:
-
-- 🔍 Static & dynamic binary analysis
-- 🧩 Mach-O / ARM64 internals
-- 🐍 Python tooling for reverse engineering
-- 📡 Frida-based runtime instrumentation
+[GitHub](https://github.com/quangvo2007ne) • [Facebook](https://www.facebook.com/duckwang8/)
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-![ARM64](https://img.shields.io/badge/Arch-ARM64-red)
-![Mach--O](https://img.shields.io/badge/Format-Mach--O-blue)
-![Frida](https://img.shields.io/badge/Dynamic-Frida-orange)
-![Python](https://img.shields.io/badge/Tooling-Python-yellow)
-![Objective--C](https://img.shields.io/badge/Lang-Objective--C-lightgrey)
+I'm an IT student who enjoys experimenting with code, exploring software, and figuring out how things work.
 
-| Domain | Skills |
-|---|---|
-| **Binary Analysis** | Mach-O format, ARM64 disassembly, ObjC runtime internals |
-| **Dynamic Analysis** | Frida, runtime hooking, function tracing |
-| **Tooling** | Python (struct/ctypes), custom parsers |
+Recently, I've started learning **Reverse Engineering**. Still a beginner, but enjoying the process of learning something new every day.
+
+Sometimes I build useful tools. Sometimes I make random stuff just because it's fun.
+
+### 🌱 Currently Exploring
+
+- 🔍 Reverse Engineering & Binary Analysis
+- 🧩 ARM64 / Mach-O Basics
+- 🐍 Python & Automation
+- 📡 Frida & Runtime Instrumentation
+- 🛠️ Small Tools & Side Projects
 
 ---
 
+## 🛠 Tech & Tools
 
-### "Read the binary. Understand the system."
+![Python](https://img.shields.io/badge/Python-Learning-yellow?style=flat-square)
+![C](https://img.shields.io/badge/C-Learning-blue?style=flat-square)
+![ARM64](https://img.shields.io/badge/ARM64-Exploring-red?style=flat-square)
+![Frida](https://img.shields.io/badge/Frida-Exploring-orange?style=flat-square)
+![IDA](https://img.shields.io/badge/IDA-Exploring-purple?style=flat-square)
 
-⭐ Thanks for visiting!
+---
+
+## 🧪 Projects & Experiments
+
+A collection of small projects, random experiments, and things I build while learning.
+
+Not everything here is perfect — some projects are just for fun, and others are part of my learning journey.
+
+**Learning. Breaking things. Fixing them. Repeating.**
+
+---
+
+### 💭 "Still learning, still experimenting."
+
+⭐ Thanks for stopping by!
